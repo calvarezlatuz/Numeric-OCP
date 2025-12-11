@@ -2,6 +2,7 @@
 function μ(s, i) 
     i = trunc(Int, i)
     return (a[i]*s)/(b[i]+s)
+
 end
 # Perturbation function 
 function  M(ε, x, s, i)
@@ -16,6 +17,7 @@ end
 # Simpson index 
 function S_func(x)
     N = sum(x)^2
+    # return 1-sum((x.^2))/N
     return sum((x.^2))/N
 end
 # Production 

@@ -1,0 +1,23 @@
+Simulation: IC1-T40
+Date: 2025-12-11T18:39:15.016
+Status: TIME_LIMIT
+Elapsed time: 302.85 seconds
+
+Parameters:
+  model: 2
+  ε: 0.01
+  α: 0.0
+  β: 0.016666666666666666
+  γ: 0.01
+  tf: 40
+  x0: [10.0, 0.1, 0.1, 0.1, 0.1]
+  s0: 24.6
+  y0: 0.0
+  umin: 0.0
+  umax: 3.0
+  nsteps: 400
+
+Final values:
+  P(tf): 1.5677808570509755
+  S(tf): 0.7960491850536369
+  s(tf): 3.6195373132303788

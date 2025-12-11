@@ -1,0 +1,23 @@
+Simulation: IC2-T20-a6-b4
+Date: 2025-12-11T19:59:00.070
+Status: LOCALLY_SOLVED
+Elapsed time: 16.6 seconds
+
+Parameters:
+  model: 0
+  ε: 0.01
+  α: 0.01
+  β: 0.016666666666666666
+  γ: 0.01
+  tf: 20
+  x0: [10.0, 0.1, 10.0, 0.1, 0.1]
+  s0: 14.699999999999996
+  y0: 0.0
+  umin: 0.0
+  umax: 3.0
+  nsteps: 200
+
+Final values:
+  P(tf): 0.6496161237579069
+  S(tf): 0.4216050758762988
+  s(tf): 22.007677647006442

@@ -1,0 +1,23 @@
+Simulation: IC3-T40-a6-b4
+Date: 2025-12-11T21:12:45.269
+Status: LOCALLY_SOLVED
+Elapsed time: 165.43 seconds
+
+Parameters:
+  model: 0
+  ε: 0.01
+  α: 0.01
+  β: 0.016666666666666666
+  γ: 0.01
+  tf: 40
+  x0: [10.0, 0.1, 10.0, 0.1, 10.0]
+  s0: 4.799999999999997
+  y0: 0.0
+  umin: 0.0
+  umax: 3.0
+  nsteps: 400
+
+Final values:
+  P(tf): 0.6487504304827627
+  S(tf): 0.44724260627598966
+  s(tf): 22.02499151233527

@@ -1,0 +1,23 @@
+Simulation: IC1-T10
+Date: 2025-12-11T18:30:25.869
+Status: LOCALLY_SOLVED
+Elapsed time: 0.59 seconds
+
+Parameters:
+  model: 1
+  ε: 0.01
+  α: 1.0
+  β: 0.016666666666666666
+  γ: 0.01
+  tf: 10
+  x0: [10.0, 0.1, 0.1, 0.1, 0.1]
+  s0: 24.6
+  y0: 0.0
+  umin: 0.0
+  umax: 3.0
+  nsteps: 100
+
+Final values:
+  P(tf): 0.6437435748587584
+  S(tf): 0.6767795370326559
+  s(tf): 22.125128631495937

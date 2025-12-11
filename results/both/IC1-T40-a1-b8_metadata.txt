@@ -1,0 +1,23 @@
+Simulation: IC1-T40-a1-b8
+Date: 2025-12-11T19:57:57.944
+Status: LOCALLY_SOLVED
+Elapsed time: 716.95 seconds
+
+Parameters:
+  model: 0
+  ε: 0.01
+  α: 0.0033333333333333327
+  β: 0.016666666666666666
+  γ: 0.01
+  tf: 40
+  x0: [10.0, 0.1, 0.1, 0.1, 0.1]
+  s0: 24.6
+  y0: 0.0
+  umin: 0.0
+  umax: 3.0
+  nsteps: 400
+
+Final values:
+  P(tf): 0.6362309551838846
+  S(tf): 0.6462593826571914
+  s(tf): 22.275381000304954
